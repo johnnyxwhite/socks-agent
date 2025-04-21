@@ -1,4 +1,4 @@
-module socks-agent
+module github.com/johnnyxwhite/socks-agent
 
 go 1.24
 
